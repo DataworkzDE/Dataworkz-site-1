@@ -1,6 +1,6 @@
 baseURL = "/"
 buildFuture = true
-disableLanguages = ["nl"]
+disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "10"
@@ -10,15 +10,15 @@ title = "Dataworkz.de | Specialist in data science & data engineering"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 by [kokkelaar](https://kokkelaar.nl)"
 home = "Home"
-languageCode = "nl-NL"
+languageCode = "en-En"
 languageName = "En"
 weight = 2
-[Languages.nl]
+[Languages.de]
 contentDir = "content/dutch"
 copyright = "Copyright &copy; 2020 by [kokkelaar](https://kokkelaar.nl)"
 home = "Home"
-languageCode = "nl-NL"
-languageName = "Nl"
+languageCode = "de-DE"
+languageName = "De"
 weight = 1
 [[menu.company]]
 URL = "insights"
@@ -93,8 +93,8 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [[module.mounts]]
-lang = "nl"
-source = "content/dutch"
+lang = "de"
+source = "content/deutsch"
 target = "content"
 [[module.mounts]]
 lang = "en"
