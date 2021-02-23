@@ -1,6 +1,6 @@
 # Dataworkz site
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6eac4cea-1da3-46fd-9213-24c3114d204e/deploy-status)](https://app.netlify.com/sites/boring-heisenberg-e4c346/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d70ecfb3-a82f-43ee-a6cc-3b35405fbdb2/deploy-status)](https://app.netlify.com/sites/relaxed-shaw-a5a09c/deploys)
 
 De huidige site van Dataworkz is opgebouwd uit de volgende onderdelen:
 
