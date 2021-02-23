@@ -1,5 +1,5 @@
 ---
-title: Over ons
+title: Uber ons
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-us.jpg
 description: ''
